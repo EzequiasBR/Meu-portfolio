@@ -19,13 +19,13 @@ div h1{
     margin: 0 auto;
 }
 
-nav{
+.caixamenu{
     position: absolute;
     top: 0;
     right: 0;
 }
 
-nav li{
+.caixamenu li{
     display: inline;
     margin: 0 0 0 15px;
 }
@@ -55,7 +55,7 @@ nav li{
     padding-top: 40px;
 }
 
-.caixa{
+.caixaApresenta{
     display:inline-block;
      width: 68%;
      vertical-align: middle;
@@ -209,7 +209,7 @@ ul a{
     background: #e21010;
 }
 
-footer{
+.rodapecaixa{
     position: relative;
 	width: 940px;
     margin: 0 auto;
@@ -217,7 +217,7 @@ footer{
     padding: 40px;
 }
 
-.copyright{
+.copy{
 	color: #ffffff;
 	font-size: 13px;
 	margin: 20px 0 0;
